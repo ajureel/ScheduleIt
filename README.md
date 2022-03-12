@@ -5,7 +5,8 @@ Bootcamp Module 5. Third-Party APIs Challenge: Work Day Scheduler
 This handy utility will help you organize your day.  It is a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 # How to Use
-Download the code and run locally in the browser (ie file:///C:filepathhere/ScheduleIt/index.html)
+Download the code and run locally in the browser (ie file:///C:filepathhere/ScheduleIt/index.html)  
+Or checkout it out here: https://ajureel.github.io/ScheduleIt/
 
 Enter data into the calendar and hit save.  When you refresh, the data will be there!
 ![](./assets/images/11-screenshot.png)
